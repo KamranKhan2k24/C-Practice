@@ -1,3 +1,5 @@
+// This code calculates the power of a given positive integer raised to another positive integer using an iterative approach.
+// It prompts the user to enter two positive numbers, computes the power using a loop, and then prints the result.  
 #include <stdio.h>
 
 int power(unsigned int, unsigned int);
