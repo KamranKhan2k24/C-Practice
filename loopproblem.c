@@ -1,3 +1,6 @@
+//This code calculates the factorial of a given positive integer using an iterative approach. 
+//It prompts the user to enter a positive number, computes its factorial using a loop, and then prints the result.  
+
 #include<stdio.h>
         int fact(unsigned int);
 int main(){
