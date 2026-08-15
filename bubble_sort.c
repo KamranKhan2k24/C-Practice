@@ -1,3 +1,5 @@
+// bubble_sort.c
+
 #include<stdio.h>
 void bubbleSort(int*,int);
 void printArray(int*,int);
