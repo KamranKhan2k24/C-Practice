@@ -1,1 +1,9 @@
+# C compiled files
+*.out
 *.exe
+a.out
+
+.vscode
+
+# Build/output directory
+bin/
