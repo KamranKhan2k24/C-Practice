@@ -3,7 +3,7 @@ int main(){
         register int x=5;
         /* int *p =&x; */
         int i;
-        for(i=0;i<100;i++){
+        for(i=0;i<10;i++){
                 printf("x=%d\n",x);
         }
         return 0;
