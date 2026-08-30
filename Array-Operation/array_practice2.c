@@ -11,4 +11,3 @@ int main(){
         printf("x=%d\tk=%d\n",x,*p);
         return 0;
 }
-
